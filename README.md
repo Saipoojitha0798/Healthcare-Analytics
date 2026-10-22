@@ -187,28 +187,3 @@ You can upload your own dataset with similar columns.
 ![Department and Cost](screenshots/Department%20and%20cost.png)
 
 ---
-
-## 🔥 Future Enhancements
-
-* 🔐 Authentication system (user login)
-* ☁️ Deployment on AWS / Azure
-* 📡 Real-time streaming data
-* 🤖 Machine learning predictions
-* 📊 Advanced drill-down analytics
-
----
-
-## 📬 Contact
-
-If you're interested in collaboration or opportunities:
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-linkedin-profile
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub — it helps a lot!
-
----
